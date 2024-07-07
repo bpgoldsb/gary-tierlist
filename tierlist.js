@@ -1,5 +1,3 @@
-
-
 const tiers = [
     {"name": "S", "color": "green"},
     {"name": "A", "color": "yellowgreen"},
@@ -22,7 +20,7 @@ const garys = [
       "name": "Gary T",
       "tier": "A",
       "weight": 50,
-      "reason": "Hoping to get a Bravo out of it.",
+      "reason": "Honestly, hoping to get a Bravo out of this placement.",
       "link": "https://www.linkedin.com/in/garytauscher/",
       "filename": "GaryT.jpg"
     },
@@ -54,7 +52,7 @@ const garys = [
       "name": "Gary Oldman",
       "tier": "S",
       "weight": 50,
-      "reason": "Fifth Element, Batman (Nolanverse), Dracula, Air Force One",
+      "reason": "Legendary actor.  Fifth Element, Batman (Dark Knight series), Dracula, Air Force One",
       "link": "https://en.wikipedia.org/wiki/Gary_Oldman",
       "filename": "GaryOldman.png"
     },
@@ -62,7 +60,7 @@ const garys = [
       "name": "Gary the Snail (spongebob)",
       "tier": "B",
       "weight": 30,
-      "reason": "Basically an underwater cat",
+      "reason": "Basically an underwater cat.  Cats are either S-tier or D-tier depending on who you ask, so we'll take the average.",
       "link": "https://spongebob.fandom.com/wiki/Gary_the_Snail",
       "filename": "GaryTheSnail.png"
     },
@@ -70,7 +68,7 @@ const garys = [
       "name": "Gary Vay-Ner-Chuk",
       "tier": "F",
       "weight": 10,
-      "reason": "I don't know who this is, but they were good enough at SEO to be the first Google result for Gary",
+      "reason": "I don't know who this is, but they were good enough at SEO to be the first person in the Google result for 'Gary'",
       "link": "https://www.instagram.com/garyvee/?hl=en",
       "filename": "GaryVaynerchuk.png"
     },
@@ -102,7 +100,7 @@ const garys = [
       "name": "Gary Cole",
       "tier": "A",
       "weight": 10,
-      "reason": "Bill Lumbergh.  Underrated performance as the VP Bob Russell in the West Wing",
+      "reason": "Bill Lumbergh, master of TPS reports.  Underrated performance as the VP Bob Russell in the West Wing.  Genereally great character actor.",
       "link": "https://en.wikipedia.org/wiki/Gary_Cole",
       "filename": "GaryCole.png"
     },
@@ -110,7 +108,7 @@ const garys = [
       "name": "Evil Gary",
       "tier": "D",
       "weight": 50,
-      "reason": "Prominent member of many watchlist, original villian in several since-revised Disney scripts",
+      "reason": "Prominent member of many watchlists.  Inspiration for the villian in multiple Disney scripts.",
       "link": null,
       "filename": "EvilGaryT.jpg"
     },
@@ -118,7 +116,7 @@ const garys = [
       "name": "Gary Chalmers (Principal), Simpsons",
       "tier": "B",
       "weight": 10,
-      "reason": "SKINNERRRRRR!",
+      "reason": "SKINNERRRRRR!  Enjoyer of Steamed Hams.",
       "link": "https://simpsons.fandom.com/wiki/Gary_Chalmers",
       "filename": "GaryChalmers.png"
     },
@@ -126,7 +124,7 @@ const garys = [
       "name": "Gary \"Eggsy\" Unwin",
       "tier": "C",
       "weight": 10,
-      "reason": "Main character from the Kingsman series",
+      "reason": "Main character from the Kingsman series.",
       "link": "https://en.wikipedia.org/wiki/Kingsman_(franchise)",
       "filename": "Garry_Eggsy_Unwin.png"
     },
@@ -142,7 +140,7 @@ const garys = [
       "name": "Gary (Mango)",
       "tier": "F",
       "weight": 50,
-      "reason": "A mango born in Florida.  aka a FloridaMan(go)",
+      "reason": "A mango born in Florida.  Thus, a FloridaMan[go]",
       "link": "https://en.wikipedia.org/wiki/Gary_(mango)",
       "filename": "GaryMango.jpg"
     },
@@ -150,7 +148,7 @@ const garys = [
       "name": "Gary GPT",
       "tier": "B",
       "weight": 51,
-      "reason": "The image generated when I prompted an AI image generate for \"Create an image of a Gary",
+      "reason": "The image generated when I prompted an AI image generate for 'Create an image of a Gary'",
       "link": null,
       "filename": "GaryGPT.jpg"
     }
